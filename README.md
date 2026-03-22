@@ -1,2 +1,4 @@
-# solana-test-project
-web3 test
+
+# Solana Test Project
+
+Testing Solana devnet interactions and wallet integrations.
